@@ -106,7 +106,7 @@ import clientService from "./client.service";
 export default class ClientDetails extends Vue {
   public id = "";
   private clientList: ClientVM[] = [] 
-
+  // List of addresses
   public address =  [
       {
         "id": 1,

@@ -9,13 +9,4 @@ export default {
     return res ;
   },
 
-  // async getClient(id: string): Promise<AxiosResponse> {
-  //   const res = await axios.get(
-  //     'clients.json'
-  //   );
-  //   console.log(response)
-  //   return response || null;
-  // },
-
-
 };
