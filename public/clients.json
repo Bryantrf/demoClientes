@@ -1,0 +1,42 @@
+ [
+      {
+        "id": 0.34535345345345345,
+        "name": "John doe1",
+        "email": "johndoe1@asd.com",
+        "phoneNumber": "8098989898",
+        "addresses": [
+          {
+            "id": 4,
+            "name": "ad4",
+            "active": true
+          },
+          {
+            "id": 3,
+            "name": "ad3",
+            "active": true
+          }
+        ],
+        "active": true
+      },
+      {
+        "id": 0.6496129428303734,
+        "name": "John doe2",
+        "email": "johndoe2@asd.com",
+        "phoneNumber": "8093389898",
+        "addresses": [
+          {
+            "id": 2,
+            "name": "ad2",
+            "active": true
+          },
+          {
+            "id": 4,
+            "name": "ad4",
+            "active": true
+          }
+        ],
+        "active": true
+      }
+      
+    ]
+  
